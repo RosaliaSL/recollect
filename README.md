@@ -18,5 +18,5 @@ Recollect is a web application that makes it easy for users to connect to garbag
 ## Login Page
 <img src="Screenshots/Login Page.png"/>
 
-## Reigstration Page
+## Registration Page
 <img src="Screenshots/Registration Page.png"/>
